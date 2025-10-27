@@ -50,6 +50,10 @@ Main functionalities include:
 
 ## 🤝 Contributing
 
+This project was developed and maintained by:  
+- **Thea Emerald Sangayab**  
+- **Queenie De Leon**
+  
 Contributions and ideas to improve the system are welcome!  
 If you’d like to help improve functionality or optimize performance, feel free to fork this repository and submit a pull request.
 
